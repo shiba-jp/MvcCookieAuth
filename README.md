@@ -8,3 +8,7 @@ You need to install the .Net Core 3.1 SDK and VsCode C# Extension.
 ```
 dotnet build
 ```
+
+<p>
+GitHubにWorkFlowを入れてみた・・・
+</P>
